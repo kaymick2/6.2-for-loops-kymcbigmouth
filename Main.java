@@ -10,7 +10,7 @@ class Main {
       y = y + 2;
     } while (y <= 20);
 System.out.println();
-    while (z <= 20);
+    while (z <= 20)
     {
       System.out.print(z + ",");
       z = z + 2;
